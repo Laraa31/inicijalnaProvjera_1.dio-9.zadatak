@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\bin\Debug\inicijalnaProvjera_1.dio-9.zadatak.exe.config
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\bin\Debug\inicijalnaProvjera_1.dio-9.zadatak.exe
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\bin\Debug\inicijalnaProvjera_1.dio-9.zadatak.pdb
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\obj\Debug\inicijalnaProvjera_1.dio-9.zadatak.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\obj\Debug\inicijalnaProvjera_1.dio-9.zadatak.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\obj\Debug\inicijalnaProvjera_1.dio-9.zadatak.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\obj\Debug\inicijalnaProvjera_1.dio-9.zadatak.exe
+C:\Users\LaPeM\source\repos\inicijalnaProvjera_1.dio-9.zadatak\inicijalnaProvjera_1.dio-9.zadatak\obj\Debug\inicijalnaProvjera_1.dio-9.zadatak.pdb
